@@ -1,0 +1,44 @@
+body {
+    font-family: Arial;
+    font-size: 0.9em;
+}
+#spacer1{
+    width: 100%;
+    height: 55px;
+    position: fixed;
+    background-color: #CDCDCD;
+
+}
+#spacer2{
+    width: 25%;
+    height: 100%;
+    float: left;
+
+}
+#spacer3{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+#spacer4{
+    background-color: white;
+    width: 25%;
+    height: 100%;
+    float: left;
+}
+.facebook{
+
+    width: 100%;
+    height: 55px;
+}
+.facebook:hover{
+    background-color: blanchedalmond;
+}
+.friend{
+    width: 100%;
+    height: 55px;
+
+}
+.friend:hover{
+    background-color: blanchedalmond;
+}

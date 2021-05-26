@@ -1,0 +1,26 @@
+body {
+    font-family: Arial;
+    font-size: 0.9em;
+}
+header, footer{
+    padding: 50px;
+    color: white;
+    background-color: black;
+}
+nav ul{
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 5px ;
+}
+section {
+    margin: 5px;
+    padding: 10px;
+    background-color: aquamarine;
+}
+section article{
+    margin: 5px;
+    padding: 10px;
+    background-color: white;
+}
